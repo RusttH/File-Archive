@@ -1,6 +1,6 @@
 Proof of Prior Existence and Authorship
 
-File: omni archive.7z 
+File: archive.7z 
 Archived Date: 2025-10-29
 Creation Date: 2025-06-14
 SHA-256: [F41376713542F9584AEAB4D05043F7847C64C0A1F64199CB3FDA757A41874E42]
@@ -12,3 +12,4 @@ No content is disclosed or licensed at this stage.
 Original author: [Rustam Hashimov]
 
 Generated and hashed locally.
+
